@@ -37,9 +37,6 @@ Professional penetration testing toolkit with automated scanning and reporting c
 - Google Cybersecurity Professional Certificate
 - Active HTB participant
 
-### 📈 GitHub Stats
-![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrey-belen&show_icons=true&theme=dark)
-
 ### 📫 Connect
 - 📧 Email: andreybelenkiy77@gmail.com
 - 💼 LinkedIn: [andrey-belenkiy](https://linkedin.com/in/andrey-belenkiy)
